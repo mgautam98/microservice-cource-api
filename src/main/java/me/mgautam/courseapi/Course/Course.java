@@ -10,6 +10,7 @@ public class Course {
     private String id;
     private String name;
     private String description;
+    private String topicId;
 
     public String getId() {
         return id;
@@ -35,14 +36,23 @@ public class Course {
         this.description = description;
     }
 
-    public Course(String id, String name, String description) {
+    public Course(String id, String name, String description, String topicId) {
         this.id = id;
         this.name = name;
         this.description = description;
+        this.topicId = topicId;
     }
 
     public Course(){
 
+    }
+
+    public String getTopicId() {
+        return topicId;
+    }
+
+    public void setTopicId(String topicId) {
+        this.topicId = topicId;
     }
 
 }
