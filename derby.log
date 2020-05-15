@@ -11,3 +11,6 @@ os.arch=amd64
 os.version=4.19.84-microsoft-standard
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 15 20:33:02 IST 2020:
+Shutting down instance a816c00e-0172-18c0-0804-000009a6b590 on database directory memory:/home/mgautam/projects/spring-boot/course-api/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
