@@ -11,3 +11,35 @@ os.arch=amd64
 os.version=4.19.84-microsoft-standard
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 15 18:47:21 IST 2020:
+Shutting down instance a816c00e-0172-1878-7d72-000009dd1e00 on database directory memory:/home/mgautam/projects/spring-boot/course-api/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+----------------------------------------------------------------
+Fri May 15 18:47:22 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 176240b2-0172-1878-7d72-000009dd1e00 
+on database directory memory:/home/mgautam/projects/spring-boot/course-api/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/home/mgautam/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.7+10-post-Ubuntu-2ubuntu218.04
+user.dir=/home/mgautam/projects/spring-boot/course-api
+os.name=Linux
+os.arch=amd64
+os.version=4.19.84-microsoft-standard
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 15 18:47:23 IST 2020:
+Shutting down instance 176240b2-0172-1878-7d72-000009dd1e00 on database directory memory:/home/mgautam/projects/spring-boot/course-api/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+----------------------------------------------------------------
+Fri May 15 18:47:58 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a0f1c156-0172-1878-7d72-000009dd1e00 
+on database directory memory:/home/mgautam/projects/spring-boot/course-api/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/home/mgautam/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.7+10-post-Ubuntu-2ubuntu218.04
+user.dir=/home/mgautam/projects/spring-boot/course-api
+os.name=Linux
+os.arch=amd64
+os.version=4.19.84-microsoft-standard
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
