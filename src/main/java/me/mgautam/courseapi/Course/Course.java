@@ -2,6 +2,7 @@ package me.mgautam.courseapi.Course;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
+import javax.persistence.ManyToOne;
 
 @Entity
 public class Course {
@@ -12,6 +13,7 @@ public class Course {
     private String description;
     private String topicId;
 
+    @ManyToOne
     public String getId() {
         return id;
     }

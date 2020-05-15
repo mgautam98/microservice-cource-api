@@ -14,7 +14,7 @@ public class CourseService {
 
     public List<Course> getAllCourse(String id){
         List<Course> course= new ArrayList<>(); 
-        courseRepository.findAll().forEach(course::add);
+        courseRepository.findByTopicId(id).forEach(course::add);
 
         return course;
     }
