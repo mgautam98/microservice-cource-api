@@ -5,4 +5,5 @@
 
 - Web
 - Spring developers tool
-
+- JPA
+- Apache Derby RDBMS
